@@ -6,5 +6,5 @@
 
 - Introdução ao JavaScript
 - Console.log
-- Variáveis
+- Variáveis e concatenação
 - Tipos
