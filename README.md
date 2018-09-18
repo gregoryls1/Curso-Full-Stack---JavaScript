@@ -8,3 +8,4 @@
 - Console.log
 - Variáveis e concatenação
 - Tipos
+- Exercícios 
