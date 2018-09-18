@@ -5,3 +5,6 @@
 #### Aula 1 
 
 - Introdução ao JavaScript
+- Console.log
+- Variáveis e concatenação
+- Tipos
