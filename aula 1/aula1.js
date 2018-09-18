@@ -122,7 +122,7 @@ function horasAtual() {
     return  minuto < 10 ? `${hora}:0${minuto}` : `${hora}:${minuto}`
 }
 
-let textoData = ` Hoje é ${semana[dia]}.
+let textoData = ` Hoje é ${semana[dia-1]}.
 São: ${horasAtual()}`
 console.log(textoData) 
 
