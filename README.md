@@ -16,3 +16,4 @@
 - Closure/função aninhada
 - funções map e foreach
 - Object Literal
+- Exercicios
