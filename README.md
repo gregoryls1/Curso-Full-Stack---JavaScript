@@ -9,3 +9,10 @@
 - Variáveis e concatenação
 - Tipos
 - Exercícios 
+
+#### Aula 2
+
+- Arrow function
+- Closure/função aninhada
+- funções map e foreach
+- Object Literal
